@@ -1,0 +1,2 @@
+# Kalgyanam
+Kalgyanam jyotish app
